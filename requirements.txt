@@ -1,0 +1,26 @@
+# Core Dashboard - Essential packages only
+dash==2.14.1
+dash-bootstrap-components==1.5.0
+plotly==5.18.0
+
+# Data Processing - using conda-forge compatible versions
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Deep Learning (optional - can be installed separately if needed)
+# tensorflow
+# keras
+
+# Graph Analysis
+networkx
+
+# Data Generation
+faker
+
+# Utilities
+python-dateutil
+tqdm

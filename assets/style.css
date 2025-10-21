@@ -1,0 +1,65 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #222831;
+    color: #eeeeee;
+}
+h1 {
+    color: #00adb5;
+}
+.card {
+    background-color: #393e46;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.card-header {
+    background-color: #00adb5;
+    color: #222831;
+    font-weight: bold;
+}
+.card-text {
+    color: #eeeeee;
+}
+footer {
+    color: #00adb5;
+}
+
+/* Dropdown styling for better visibility */
+.Select-control {
+    background-color: white !important;
+    color: #000000 !important;
+    border: 2px solid #007bff !important;
+    border-radius: 6px !important;
+}
+
+.Select-menu-outer {
+    background-color: white !important;
+    border: 1px solid #007bff !important;
+    border-radius: 6px !important;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1) !important;
+}
+
+.Select-option {
+    background-color: white !important;
+    color: #000000 !important;
+    font-weight: 500 !important;
+}
+
+.Select-option:hover {
+    background-color: #f0f8ff !important;
+    color: #000000 !important;
+}
+
+.Select-option.is-selected {
+    background-color: #007bff !important;
+    color: white !important;
+}
+
+.Select-placeholder {
+    color: #000000 !important;
+    font-weight: 500 !important;
+}
+
+.Select-value-label {
+    color: #000000 !important;
+    font-weight: 500 !important;
+}
