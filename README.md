@@ -263,5 +263,3 @@ flake8 src/
 - **Dash Team**: For the powerful dashboard framework
 
 ---
-
-**⚠️ Disclaimer**: This system is designed for educational and research purposes. Always ensure compliance with privacy laws and organizational policies when deploying in production environments.
