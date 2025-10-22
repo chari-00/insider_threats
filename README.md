@@ -147,10 +147,6 @@ insider-threats/
 ├── .gitignore                   # Git ignore rules
 ├── assets/
 │   └── style.css                # Dashboard styling
-├── data/
-│   ├── raw/                     # Raw LANL authentication logs
-│   ├── processed/               # Processed features and baselines
-│   └── synthetic/               # Generated synthetic data
 ├── models/                      # Trained ML models
 └── src/                        # Source code
     ├── __init__.py
@@ -263,3 +259,4 @@ flake8 src/
 - **Dash Team**: For the powerful dashboard framework
 
 ---
+
